@@ -1,0 +1,48 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+#num {
+    font-size: 40px;
+    padding-bottom: 48px;
+}
+
+button
+{
+    background-color: purple;
+    color: #fff;
+    border-radius: 30px;
+    border: 2px solid #fff;
+    font-size: 20px;
+    padding: 10px 30px;
+    cursor: pointer;
+    margin: 0 10px;
+}
+.cards {
+    width: 600px;
+    height: 200px;
+    background-color: darkcyan;
+    padding: 3rem;
+    color: #fff;
+    border-radius: 10px;
+    text-align: center;
+    
+}
+.parent
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-image: url("https://assets.isu.pub/document-structure/221121055840-40e9a3a555ecdd1ede50610844579522/v1/c910baac369a030bf09548ab196e96e6.jpeg");
+}
+#inc
+{
+    background-color: green;
+}
+#dec
+{
+    background-color: red;
+}
